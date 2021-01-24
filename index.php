@@ -1,4 +1,4 @@
-<?php include '../template/header.php'; ?>
+<?php include 'template/header.php'; ?>
 
 	<div class="body">
 		<header id="header" class="header-narrow" data-plugin-options="{'stickyEnabled': true, 'stickyEnableOnBoxed': true, 'stickyEnableOnMobile': true, 'stickyStartAt': 84, 'stickySetTop': '-84px'}">
@@ -78,7 +78,7 @@
 				<div id="revolutionSlider" class="slider rev_slider manual" data-version="5.4.8">
 					<ul>
 						<li data-transition="notransition">
-							<img src="../image/prewedding/IMG_7772.jpg" 
+							<img src="image/prewedding/IMG_7772.jpg" 
 								alt=""
 								data-bgposition="center center" 
 								data-bgfit="cover" 
@@ -131,7 +131,7 @@
 								data-responsive_offset="on" 
 								style="z-index: 8;">
 									<div class="rs-looped rs-pendulum" data-easing="linearEaseNone" data-startdeg="-20" data-enddeg="360" data-speed="35" data-origin="50% 50%">
-										<img src="../image/prewedding/IMG_7772.jpg" alt="" width="240" height="240" data-ww="['240px','240px','240px','240px']" data-hh="['240px','240px','240px','240px']" data-no-retina> 
+										<img src="image/prewedding/IMG_7772.jpg" alt="" width="240" height="240" data-ww="['240px','240px','240px','240px']" data-hh="['240px','240px','240px','240px']" data-no-retina> 
 									</div>
 							</div>
 
@@ -148,7 +148,7 @@
 								data-responsive_offset="on"
 								style="z-index: 9;">
 									<div class="rs-looped rs-wave" data-speed="20" data-angle="0" data-radius="50px" data-origin="50% 50%">
-										<img src="../image/prewedding/IMG_7772.jpg" alt="" width="170" height="170" data-ww="['170px','170px','170px','170px']" data-hh="['170px','170px','170px','170px']" data-no-retina> 
+										<img src="image/prewedding/IMG_7772.jpg" alt="" width="170" height="170" data-ww="['170px','170px','170px','170px']" data-hh="['170px','170px','170px','170px']" data-no-retina> 
 									</div>
 							</div>
 
@@ -165,7 +165,7 @@
 								data-responsive_offset="on" 
 								style="z-index: 10;">
 									<div class="rs-looped rs-rotate" data-easing="Power2.easeInOut" data-startdeg="-20" data-enddeg="360" data-speed="20" data-origin="50% 50%">
-										<img src="../image/prewedding/IMG_7772.jpg" alt="" width="50" height="51" data-ww="['50px','50px','50px','50px']" data-hh="['51px','51px','51px','51px']" data-no-retina> 
+										<img src="image/prewedding/IMG_7772.jpg" alt="" width="50" height="51" data-ww="['50px','50px','50px','50px']" data-hh="['51px','51px','51px','51px']" data-no-retina> 
 									</div>
 							</div>
 
@@ -182,7 +182,7 @@
 								data-responsive_offset="on" 
 								style="z-index: 11;">
 									<div class="rs-looped rs-wave" data-speed="4" data-angle="0" data-radius="10" data-origin="50% 50%">
-										<img src="../image/prewedding/IMG_7772.jpg" alt="" width="120" height="120" data-ww="['120px','120px','120px','120px']" data-hh="['120px','120px','120px','120px']" data-no-retina> 
+										<img src="image/prewedding/IMG_7772.jpg" alt="" width="120" height="120" data-ww="['120px','120px','120px','120px']" data-hh="['120px','120px','120px','120px']" data-no-retina> 
 									</div>
 							</div>
 						</li>
@@ -197,7 +197,7 @@
 							<div class="thumb-bride-groom text-center appear-animation" data-appear-animation="fadeIn" data-appear-animation-delay="0">
 								<div class="bride-groom-bg">
 									<div class="bride-groom-photo">
-										<img src="../image/prewedding/ratna.jpg" alt />
+										<img src="image/prewedding/ratna.jpg" alt />
 									</div>
 								</div>
 								<div class="bride-groom-infos">
@@ -230,7 +230,7 @@
 							<div class="thumb-bride-groom text-center appear-animation" data-appear-animation="fadeIn" data-appear-animation-delay="300">
 								<div class="bride-groom-bg groom-background-style">
 									<div class="bride-groom-photo">
-										<img src="../image/prewedding/dodi.jpg" alt />
+										<img src="image/prewedding/dodi.jpg" alt />
 									</div>
 								</div>
 								<div class="bride-groom-infos">
@@ -262,7 +262,7 @@
 					</div>
 				</div>
 			</section>
-			<section class="wedding-countdown parallax section section-text-light section-parallax section-center m-0" data-plugin-parallax data-plugin-options="{'speed': 1.5}" data-image-src="../image/prewedding/IMG_7772.jpg">
+			<section class="wedding-countdown parallax section section-text-light section-parallax section-center m-0" data-plugin-parallax data-plugin-options="{'speed': 1.5}" data-image-src="image/prewedding/IMG_7772.jpg">
 				<div class="container">
 					<div class="row justify-content-center mt-5 mb-5 pt-1 pb-4">
 						<div class="col-lg-8">
@@ -286,7 +286,7 @@
 						<div class="col-md-8 col-lg-5 mt-5 pt-5">
 							<div class="wedding-schedule text-center appear-animation" data-appear-animation="fadeInLeft" data-appear-animation-delay="0">
 								<div class="wedding-schedule-photo">
-									<img src="../image/prewedding/IMG_7772.jpg" alt />
+									<img src="image/prewedding/IMG_7772.jpg" alt />
 								</div>
 								<div class="wedding-schedule-background"></div>
 								<img class="icon-heart-white-border" src="img/demos/wedding/the-wedding/icon-heart-white-border.png" alt />
@@ -305,7 +305,7 @@
 						<div class="col-md-8 col-lg-5 mt-5 pt-5">
 							<div class="wedding-schedule text-center appear-animation" data-appear-animation="fadeInRight" data-appear-animation-delay="0">
 								<div class="wedding-schedule-photo">
-									<img src="../image/prewedding/IMG_7772.jpg" alt />
+									<img src="image/prewedding/IMG_7772.jpg" alt />
 								</div>
 								<div class="wedding-schedule-background"></div>
 								<img class="icon-heart-white-border" src="img/demos/wedding/the-wedding/icon-heart-white-border.png" alt />
@@ -706,4 +706,4 @@
 		</div>
 	</div>
 
-<?php include '../template/footer.php'; ?>
+<?php include 'template/footer.php'; ?>
